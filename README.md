@@ -1,3 +1,3 @@
 # weather-forecast
 
-program that fetches weather details
+script to fetch weather details
