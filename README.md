@@ -1,3 +1,3 @@
 # weather-forecast
 
-small program that fetches weather details
+program that fetches weather details
